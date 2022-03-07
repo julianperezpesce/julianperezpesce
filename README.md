@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I'm Julian
+
+Hello How are you?
+I'm Julian Full-Stack Developer. I have knowledge in JavaScript, Angular, React, NodeJS and Java. 🌱 I'm Working hard to learn Salesforce, witch use Apex and Lightning Web Component.
+
+📫 How to reach me: contact@nubeala.com
 
 <!--
 **julianperezpesce/julianperezpesce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
